@@ -1,0 +1,28 @@
+{
+  "name": "tap-tarea-3",
+  "version": "1.0.0",
+  "description": "Tarea3 (TAP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-a-java": "javac pa/pa.java",
+    "compile-a-cpp": "g++ -o pa/pa pa/pa.cpp",
+    "compile-b-java": "javac pb/pb.java",
+    "compile-b-cpp": "g++ -o pb/pb pb/pb.cpp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesabg/tap-tarea-III.git"
+  },
+  "keywords": [
+    "TAP",
+    "BFS",
+    "MBM"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesabg/tap-tarea-III/issues"
+  },
+  "homepage": "https://github.com/mesabg/tap-tarea-III#readme"
+}
